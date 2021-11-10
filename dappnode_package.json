@@ -1,0 +1,12 @@
+{
+  "name": "mycrypto.public.dappnode.eth",
+  "version": "0.1.0",
+  "description": "mycrypto",
+  "type": "service",
+  "author": "H4RDSTYLE (https://github.com/H4RDSTYLE)",
+  "categories": ["Developer tools"],
+  "links": {
+    "homepage": "https://mycrypto.com/"
+  },
+  "license": "GLP-3.0"
+}
